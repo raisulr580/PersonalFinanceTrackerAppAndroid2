@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662968540472",
+    "project_id": "personal-tracker-40da7",
+    "storage_bucket": "personal-tracker-40da7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662968540472:android:65d50a230fe02b57f0f5cd",
+        "android_client_info": {
+          "package_name": "com.example.emanager.views.activites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8GrJwRpMCjJV3pUsyvjYwD0EvXqfrj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
